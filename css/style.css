@@ -12,6 +12,7 @@ body{
     flex-direction: column;
     background-color: #333;
     font-family: Arial, Arial, Helvetica, sans-serif;
+    /* background-image: url();    */
 }
 
 h1{
